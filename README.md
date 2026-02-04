@@ -1,16 +1,41 @@
-👋 Hey there! I'm **Nihal Ahamad**  
-🤖 AI & Data Science Student | ML • DL • Computer Vision  
+Hi 👋, I'm Nihal Ahamad  
+🚀 A passionate AI & Data Science student from India  
 
-🔭 Working on intelligent systems & robotics  
-🌱 Learning advanced ML, DL & real-world AI  
-👯 Open to AI/ML collaborations  
-🤝 Exploring deployment & real-time perception  
-💬 Talk to me about CNNs, OpenCV & Python  
-📫 Reach me at: **nihalahamadb@gmail.com**  
+nihalahamad
 
-⚡ Fun fact: I design posters as passionately as I train models 😄
+🔭 I’m currently working on **Neural Networks for Printed Character Recognition**
 
-🌐 LinkedIn | GitHub  
+🌱 I’m currently learning **Deep Learning | Computer Vision | DSA**
 
-🛠 Tech Stack:  
-Python • C • TensorFlow • PyTorch • OpenCV • SQL • Arduino • Docker • Git • Figma
+👯 I’m looking to collaborate on **AI/ML & Computer Vision projects**
+
+🤝 I’m looking for help with **ML model deployment & real-time robotics systems**
+
+👨‍💻 All of my projects are available on my **GitHub repositories**
+
+💬 Ask me about **Machine Learning, CNNs, OpenCV, Python**
+
+📫 How to reach me **nihalahamadb@gmail.com**
+
+📄 Know about my experiences **(Resume available on request)**
+
+⚡ Fun fact: **I enjoy blending design creativity with technical problem-solving**
+
+---
+
+🌐 **Connect with me:**  
+🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-username  
+💻 GitHub: https://github.com/your-github-username  
+
+---
+
+🛠️ **Languages and Tools:**  
+`Python` `C` `JavaScript`  
+`TensorFlow` `Keras` `PyTorch`  
+`OpenCV` `Scikit-Learn`  
+`SQL` `DBMS`  
+`Arduino`  
+`Docker` `Git` `GitHub`  
+`VS Code`  
+`Canva` `Figma`
+
