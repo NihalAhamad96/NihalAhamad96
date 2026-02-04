@@ -5,7 +5,7 @@ nihalahamad
 
 🔭 I’m currently working on **Neural Networks for Printed Character Recognition**
 
-🌱 I’m currently learning **Deep Learning | Computer Vision | DSA**
+🌱 I’m currently learning **Deep Learning | Computer Vision | DSA | Full Stack | Frontend | Backend**
 
 👯 I’m looking to collaborate on **AI/ML & Computer Vision projects**
 
