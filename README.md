@@ -24,8 +24,8 @@ nihalahamad
 ---
 
 🌐 **Connect with me:**  
-🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-username  
-💻 GitHub: https://github.com/your-github-username  
+🔗 LinkedIn: https://www.linkedin.com/in/nihal-ahamad-b-83574b28a/
+💻 GitHub: https://github.com/NihalAhamad96
 
 ---
 
